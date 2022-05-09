@@ -48,3 +48,4 @@ tmp/
 local.properties
 .loadpath
 .factorypath
+test-output/
